@@ -24,4 +24,4 @@ The analysis covers:
 ## 🚀 How to Run
 1. Open the notebook:
    ```bash
-   jupyter notebook notebooks/Project_Strikers_Performance.ipynb
+   jupyter notebook Project_Strikers_Performance.ipynb
