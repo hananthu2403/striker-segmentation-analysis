@@ -12,14 +12,9 @@ Analyze 500 football strikers using **data analytics** and **machine learning** 
 - Model Evaluation & Insights  
 
 ## 📂 Project Structure
-
 striker-segmentation-analysis/
-│
-├── Strikers_performance.xlsx # Dataset of 500 strikers
-│
-├── Project_Strikers_Performance.ipynb # Analysis & models
-
-
+├── Strikers_performance.xlsx
+├── Project_Strikers_Performance.ipynb
 
 ## 🛠️ Tools & Libraries
 Python, Jupyter Notebook, pandas, numpy, seaborn, matplotlib, scikit-learn, statsmodels  
