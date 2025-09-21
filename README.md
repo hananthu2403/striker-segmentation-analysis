@@ -1,42 +1,72 @@
-# striker-segmentation-analysis
-Data analytics and machine learning project to segment and classify strikers based on performance metrics.
+⚽ Striker Segmentation & Classification
+📖 Overview
 
-# ⚽ Striker Segmentation & Classification
+This project applies data analytics and machine learning to analyze 500 football strikers and segment them into categories such as Best Strikers and Regular Strikers.
 
-## 📖 Overview
-This project analyzes 500 football strikers using **data analytics and machine learning** to segment and classify them into categories such as **Best Strikers** and **Regular Strikers**.  
+The workflow includes:
 
-The analysis covers:
-- Data cleaning and preprocessing  
-- Descriptive and statistical analysis  
-- Clustering with KMeans  
-- Logistic Regression classification model  
+Data cleaning and preprocessing
 
-## 📂 Project Files
-- `Strikers_performance.xlsx` → Dataset of 500 strikers  
-- `Project_Strikers_Performance.ipynb` → Jupyter Notebook with complete analysis  
+Descriptive and statistical analysis
 
-## 🛠️ Tools & Libraries
-- Python, Jupyter Notebook  
-- pandas, numpy, seaborn, matplotlib  
-- scikit-learn, statsmodels  
+Clustering with KMeans
 
-## 🚀 How to Run
-1. Open the notebook:
-   ```bash
-   jupyter notebook Project_Strikers_Performance.ipynb
+Classification using Logistic Regression
 
-## 📊 Key Results
-- Maximum goals scored by a striker: 34
-- Portion of right-footed players: 68%
-- Best Strikers (Cluster 0) average total contribution score: 120.5
-- Logistic Regression Model Accuracy: 86%
+📂 Project Files
+striker-segmentation-analysis/
+│
+├── data/
+│   └── Strikers_performance.xlsx           # Dataset of 500 strikers
+│
+├── notebooks/
+│   └── Project_Strikers_Performance.ipynb  # Complete analysis & models
 
-## 🔄 Project Workflow
-1. Data Cleaning (handling missing values, encoding, scaling)
-2. Descriptive & Statistical Analysis
-3. Feature Engineering (Total Contribution Score, Encoding)
-4. Clustering with KMeans
-5. Classification with Logistic Regression
-6. Model Evaluation & Insights
+🛠️ Tools & Libraries
 
+Python, Jupyter Notebook
+
+pandas, numpy, seaborn, matplotlib
+
+scikit-learn, statsmodels
+
+🚀 How to Run
+
+Navigate to the notebooks/ folder.
+
+Open the notebook:
+
+jupyter notebook Project_Strikers_Performance.ipynb
+
+📊 Key Results
+
+Maximum goals scored by a striker: 34
+
+Portion of right-footed players: 68%
+
+Best Strikers (Cluster 0) → Average Total Contribution Score: 120.5
+
+Logistic Regression Accuracy: 86%
+
+🔄 Project Workflow
+
+Data Cleaning → Handle missing values, encoding, scaling
+
+Descriptive & Statistical Analysis → Goals, assists, foot preference, etc.
+
+Feature Engineering → Create Total Contribution Score, encode categorical features
+
+Clustering (KMeans) → Identify groups of strikers
+
+Classification (Logistic Regression) → Classify into Best vs. Regular Strikers
+
+Model Evaluation → Accuracy, insights, and interpretation
+
+✍️ Author
+
+Hanisha Ananthula
+🔗https://www.linkedin.com/in/hanisha-ananthula-432284242/• ✉️ hanishaananthula@gmail.com
+
+🔑 Keywords/Tags
+
+Data Analytics · Machine Learning · Football Analytics · Clustering · Classification · KMeans · Logistic Regression · Sports Data
