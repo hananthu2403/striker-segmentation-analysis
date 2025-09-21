@@ -25,3 +25,18 @@ The analysis covers:
 1. Open the notebook:
    ```bash
    jupyter notebook Project_Strikers_Performance.ipynb
+
+## 📊 Key Results
+- Maximum goals scored by a striker: 34
+- Portion of right-footed players: 68%
+- Best Strikers (Cluster 0) average total contribution score: 120.5
+- Logistic Regression Model Accuracy: 86%
+
+## 🔄 Project Workflow
+1. Data Cleaning (handling missing values, encoding, scaling)
+2. Descriptive & Statistical Analysis
+3. Feature Engineering (Total Contribution Score, Encoding)
+4. Clustering with KMeans
+5. Classification with Logistic Regression
+6. Model Evaluation & Insights
+
