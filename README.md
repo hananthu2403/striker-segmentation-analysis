@@ -13,8 +13,8 @@ The analysis covers:
 - Logistic Regression classification model  
 
 ## 📂 Project Files
-- `data/Strikers_performance.xlsx` → Dataset of 500 strikers  
-- `notebooks/Project_Strikers_Performance.ipynb` → Jupyter Notebook with complete analysis  
+- `Strikers_performance.xlsx` → Dataset of 500 strikers  
+- `Project_Strikers_Performance.ipynb` → Jupyter Notebook with complete analysis  
 
 ## 🛠️ Tools & Libraries
 - Python, Jupyter Notebook  
